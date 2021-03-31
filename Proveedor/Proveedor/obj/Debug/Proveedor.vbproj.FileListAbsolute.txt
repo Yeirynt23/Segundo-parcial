@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2012\Projects\Proveedor\Proveedor\bin\Debug\Proveedor.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\Proveedor\Proveedor\obj\Debug\Proveedor.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\Proveedor\Proveedor\obj\Debug\Proveedor.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\Proveedor\Proveedor\obj\Debug\Proveedor.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\Proveedor\Proveedor\bin\Debug\Proveedor.exe
+c:\users\admin\documents\visual studio 2012\Projects\Proveedor\Proveedor\bin\Debug\Proveedor.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Proveedor\Proveedor\bin\Debug\Proveedor.xml
+c:\users\admin\documents\visual studio 2012\Projects\Proveedor\Proveedor\obj\Debug\Proveedor.exe
+c:\users\admin\documents\visual studio 2012\Projects\Proveedor\Proveedor\obj\Debug\Proveedor.xml
+c:\users\admin\documents\visual studio 2012\Projects\Proveedor\Proveedor\obj\Debug\Proveedor.pdb
